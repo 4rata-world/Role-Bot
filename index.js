@@ -7,8 +7,8 @@ const client = new Client({
 
 // 設定：ボタンの名前、ロールID、ボタンの色（Primary, Success, Dangerなど）
 const roleSettings = [
-    { label: '赤のロールをGET', roleId: 'ここにロールID1を入れる', style: ButtonStyle.Primary },
-    { label: '青のロールをGET', roleId: 'ここにロールID2を入れる', style: ButtonStyle.Success },
+    { label: 'あ', roleId: '1544622297132826644', style: ButtonStyle.Primary },
+    { label: 'い', roleId: '1544622321958912040', style: ButtonStyle.Success },
 ];
 
 client.once('ready', async () => {
