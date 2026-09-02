@@ -1,0 +1,8 @@
+NAME=RoleBot
+TYPE=bot
+MAIN=index.js
+RAM=100
+VERSION=latest
+AUTORESTART=false
+START=npm start
+TOKEN= MTU0NDU4NzYzNDY3OTIyNjM4OA.GWGmWp.dsmru_e-uV3ZwzBOX5n42f7mKjLtrI_8vB5PGg
